@@ -1,0 +1,7 @@
+{
+  "name": "Gemini English Tutor",
+  "description": "An interactive English conversation practice app powered by the Gemini Live API. Users can upload lesson materials from a textbook (as an image) or paste text to start a personalized, real-time spoken lesson with an AI tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
